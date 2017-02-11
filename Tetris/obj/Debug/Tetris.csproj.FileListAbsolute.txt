@@ -1,0 +1,14 @@
+F:\work\git\myself\Tetris\Tetris\bin\Debug\Tetris.exe.config
+F:\work\git\myself\Tetris\Tetris\bin\Debug\Tetris.exe
+F:\work\git\myself\Tetris\Tetris\bin\Debug\Tetris.pdb
+F:\work\git\myself\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+F:\work\git\myself\Tetris\Tetris\obj\Debug\MainWindow.g.cs
+F:\work\git\myself\Tetris\Tetris\obj\Debug\App.g.cs
+F:\work\git\myself\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+F:\work\git\myself\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+F:\work\git\myself\Tetris\Tetris\obj\Debug\MainWindow.baml
+F:\work\git\myself\Tetris\Tetris\obj\Debug\Tetris.g.resources
+F:\work\git\myself\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+F:\work\git\myself\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+F:\work\git\myself\Tetris\Tetris\obj\Debug\Tetris.exe
+F:\work\git\myself\Tetris\Tetris\obj\Debug\Tetris.pdb
